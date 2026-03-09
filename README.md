@@ -3,7 +3,7 @@
   With over 10 years of experience in product development, marketing, and building B2B and B2C products & platforms across FinTech, Healthcare, and EdTech. 
   My expertise lies in translating complex business needs into scalable, data-driven products with AI/ML-powered solutions to meet & satisfy end-users' needs.
 
-🎯 Quick Summary
+🎯 Career Summary
 
   🎓 Dual MBA & MS-Business Analytics from the University of Georgia;
   🔭 Currently leading technical product initiatives and delivery for enterprise financial platforms;
@@ -13,7 +13,7 @@
 🛠 Technical & Agile Product Stack
 
   Product Frameworks: Agile/SAFe, Lean Product, OKRs, Requirement Gathering, Product Roadmaps & Prototype;
-  Tech & Tools: Azure DevOps, Jira, Confluence, Figma, Serena, Miro, Salesforce, SQL, Python, Power BI, Tableau,
+  Tech & Tools: Azure DevOps, Jira, Confluence, Figma, Serena, Miro, Salesforce, SQL, Python, Power BI, Tableau
   Cloud & AI: GCP, Azure, LLM/GEN AI, APIs, FDC3
 
 🌱 What I'm Exploring
