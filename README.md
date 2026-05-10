@@ -1,7 +1,7 @@
-👋 Hi, I'm Hosanna — Technical Product Professional
+👋 Hi, I'm Hosanna
 
-  With over 10 years of experience in product development, marketing, and building B2B and B2C products & platforms across FinTech, Healthcare, and EdTech. 
-  My expertise lies in translating complex business needs into scalable, data-driven products with AI/ML-powered solutions to meet & satisfy end-users' needs.
+With over 10 years of experience in product development, marketing, and program management in building and delivering B2B and B2C products & platforms across FinTech, Healthcare, and EdTech. 
+  My expertise lies in translating complex business needs into scalable, data-driven products powered by AI/ML to meet & satisfy end users' needs.
 
 🎯 Career Summary
 
@@ -27,7 +27,7 @@
 
   Open-source projects in FinTech, Healthcare AI, or EdTech;
   Product strategy, go-to-market strategy, data-driven user research, and product delivery;
-  Speaking, writing, or advising on technical product leadership
+  Speaking, writing, or advising on technical product ad program leadership
 
 💼 Open to roles in Technical Product Management, Product Strategy, AI Product Leadership, FinTech & HealthTech Product Innovation
   
