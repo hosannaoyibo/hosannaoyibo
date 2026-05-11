@@ -10,9 +10,10 @@ With over 10 years of experience in product development, marketing, and program 
   🌐 Specializing in Product-Led Growth, Business Analysis, AI in Product, and Program Management;
   🧠 Actively building end-to-end product strategies, customer-driven product roadmaps, and scalable platforms & workflows
 
-🛠 Technical & Agile Product Stack
+🛠 Technical & Agile Skills Stack
 
-  Product Frameworks: Agile/SAFe, Lean Product, OKRs, Requirement Gathering, Product Roadmaps & Prototype;
+  Product Frameworks: Product Strategy, GTM Strategy & Competitor Analysis, Lean Product, Requirement Gathering, Product Roadmaps & Prototype,     Business Case, KPIs & OKRs, FinTech, Financial Capital Markets, Cybersecurity & Data Governance, B2B-B2C-DTC Ecommerce
+  Programs Management: Business Analysis & Process Mapping; Stakeholder Alignment & Reporting; Communications & Negotiations, Risk & Change       Management, Agile Methodologies, Scrum. SAFe, Kanban, Project Management 
   Tech & Tools: Azure DevOps, Jira, Confluence, Figma, Serena, Miro, Salesforce, SQL, Python, Power BI, Tableau
   Cloud & AI: GCP, Azure, LLM/GEN AI, APIs, FDC3
 
@@ -27,7 +28,7 @@ With over 10 years of experience in product development, marketing, and program 
 
   Open-source projects in FinTech, Healthcare AI, or EdTech;
   Product strategy, go-to-market strategy, data-driven user research, and product delivery;
-  Speaking, writing, or advising on technical product ad program leadership
+  Speaking, writing, or advising on technical product and program leadership
 
 💼 Open to roles in Technical Product Management, Product Strategy, AI Product Leadership, FinTech & HealthTech Product Innovation
   
