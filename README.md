@@ -1,7 +1,7 @@
 👋 Hi, I'm Hosanna
 
-With over 10 years of experience in product development, marketing, and program management in building and delivering B2B and B2C products & platforms across FinTech, Healthcare, and EdTech. 
-  My expertise lies in translating complex business needs into scalable, data-driven AI/ML products that meet end users' needs.
+With over 11 years of experience in product development, marketing, and program management in building and delivering B2B and B2C products & platforms across FinTech, Healthcare, and EdTech. 
+  I translate complex business needs into scalable, data-driven AI/ML products that meet end users' needs.
 
 🎯 Career Summary
 
@@ -27,7 +27,7 @@ With over 10 years of experience in product development, marketing, and program 
 🤝 Let's Collaborate On
 
   Open-source projects in FinTech, Healthcare AI, or EdTech;
-  Product strategy, go-to-market strategy, data-driven user research, and product delivery;
+  Product development, project delivery, go-to-market strategy, AI and data-driven user research, and governance;
   Speaking, writing, or advising on technical product and program leadership
 
 💼 Open to roles in Technical Product Management, Program Management, AI Product Leadership, FinTech & HealthTech Product Innovation
