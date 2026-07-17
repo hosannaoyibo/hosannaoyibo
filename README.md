@@ -13,7 +13,7 @@ With over 11 years of experience in product development, marketing, and program 
 🛠 Technical & Agile Skills Stack
 
   Product Frameworks: Product Strategy, GTM Strategy & Competitor Analysis, Lean Product, Requirement Gathering, Product Roadmaps & Prototype,     Business Case, KPIs & OKRs, FinTech, Financial Capital Markets, Cybersecurity & Data Governance, B2B-B2C-DTC Ecommerce
-  Programs Management: Business Analysis & Process Mapping; Stakeholder Alignment & Reporting; Communications & Negotiations, Risk & Change       Management, Agile Methodologies, Scrum. SAFe, Kanban, Project Management 
+  Program Management: Business Analysis & Process Mapping; Stakeholder Alignment & Reporting; Communications & Negotiations, Risk & Change       Management, Agile Methodologies, Scrum. SAFe, Kanban, Project Management 
   Tech & Tools: Azure DevOps, Jira, Confluence, Figma, Serena, Miro, Salesforce, SQL, Python, Power BI, Tableau
   Cloud & AI: GCP, Azure, LLM/GEN AI, APIs, FDC3
 
@@ -33,7 +33,7 @@ With over 11 years of experience in product development, marketing, and program 
 💼 Open to roles in Technical Product Management, Program Management, AI Product Leadership, FinTech & HealthTech Product Innovation
   
 📫 How to Reach Me
-  Portfolio: https://linktr.ee/hosannao
+  Portfolio: https://www.hosannaoyibo.com/, https://linktr.ee/hosannao
 
 ⚡️ Fun Fact
   I once walked 7km alone at age 7 — an early sign of my love for independent exploration and resilience 😄
