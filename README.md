@@ -30,7 +30,7 @@
   Product development, project delivery, go-to-market strategy, AI and data-driven user research, and governance;
   Speaking, writing, or advising on technical product and program leadership
 
-💼 Open to roles in Technical Product Management, Program Management, AI Product Leadership, FinTech & HealthTech Product Innovation
+💼 Open to roles in Technical Product Management, Program Management, Agile Delivery in AI, FinTech & HealthTech Product Innovation
   
 📫 How to Reach Me
   Portfolio: https://www.hosannaoyibo.com/, https://linktr.ee/hosannao
