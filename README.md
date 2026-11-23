@@ -12,7 +12,7 @@
 
 🛠 Technical & Agile Skills Stack
 
-  Product Frameworks: Product Strategy, GTM Strategy & Competitor Analysis, Lean Product, Requirement Gathering, Product Roadmaps & Prototypes,     Business Case, KPIs & OKRs, FinTech, Financial Capital Markets, Cybersecurity & Data Governance, B2B-B2C-DTC Ecommerce
+  Product Frameworks: Product Strategy, GTM Strategy & Competitor Analysis, Lean Product, Requirement Gathering, Product Roadmaps & Prototypes, Business Case, KPIs & OKRs, FinTech, Financial Capital Markets, Cybersecurity    & Data Governance, B2B-B2C-DTC Ecommerce
   Program Management: Business Analysis & Process Mapping; Stakeholder Alignment & Reporting; Communications & Negotiations; Risk & Change Management; Agile Methodologies; Scrum. SAFe, Kanban, Project Management 
   Tech & Tools: Azure DevOps, Jira, Confluence, Figma, Serena, Miro, Salesforce, SQL, Python, Power BI, Tableau
   Cloud & AI: GCP, Azure, LLM/GEN AI, APIs, FDC3
